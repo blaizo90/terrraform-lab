@@ -1,0 +1,5 @@
+ami-type = "ami-0440d3b780d96b29d"
+instance_type = "t2.small"
+env = "prod"
+instance-name = "postgresql-server-prod"
+team = "prod Team"
